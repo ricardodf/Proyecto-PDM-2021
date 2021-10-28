@@ -5,4 +5,4 @@ controlar tus tiempos en esta aplicación móvil para dispositivos Android usand
 
 ## Integrantes
 - Luis Ricardo Díaz Flores
-- Marcela Quintero Pérez.
+- Marcela Quintero Pérez.   is717644
